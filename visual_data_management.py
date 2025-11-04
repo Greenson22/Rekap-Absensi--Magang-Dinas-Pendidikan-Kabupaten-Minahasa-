@@ -17,7 +17,7 @@ from openpyxl.styles import Alignment
 from mother import path
 
 # Set locale menjadi bahasa Indonesia
-locale.setlocale(locale.LC_TIME, 'id_ID')
+locale.setlocale(locale.LC_TIME, 'id_ID.UTF-8')
 
 class VisualDataManagement():
     def __init__(self, inface, raw_attd) -> None:
