@@ -1,0 +1,3 @@
+instal terlebih dahulu pip
+setelah itu gunakan perintah ini
+pip install openpyxl datetime calendar csv fuzzywuzzy
